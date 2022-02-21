@@ -1,0 +1,55 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "childName": "asdf",
+      "parentName": "sdf",
+      "childCount": "",
+      "address": "",
+      "resDate": "2022-02-02",
+      "resLength": "",
+      "completed": true,
+      "clownId": 3,
+      "clownName": "Bozo"
+    },
+    {
+      "id": 2,
+      "childName": "asdfasd",
+      "parentName": "",
+      "childCount": "",
+      "address": "",
+      "resDate": "",
+      "resLength": "",
+      "completed": true,
+      "clownId": 2,
+      "clownName": "Lollipop"
+    },
+    {
+      "id": 3,
+      "childName": "John",
+      "parentName": "Johnny",
+      "childCount": "10",
+      "address": "115 Middleton Street, 352",
+      "resDate": "2022-03-03",
+      "resLength": "3",
+      "completed": true,
+      "clownId": 2,
+      "clownName": "Lollipop"
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    },
+    {
+      "id": 3,
+      "name": "Bozo"
+    }
+  ],
+  "completions": []
+}
